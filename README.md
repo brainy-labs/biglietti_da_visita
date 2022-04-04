@@ -4,6 +4,17 @@ A new Flutter project.
 
 ## Getting Started
 
+# scaricare dipendenza
+flutter pub get 
+
+# scaricare pacchetti
+flutter packages get 
+
+# run
+flutter run
+
+
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
